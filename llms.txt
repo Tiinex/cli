@@ -1,0 +1,5 @@
+cli
+
+First-party Tiinex command-line host for portable Workspace, validation, Handoff, runtime and operator workflows.
+
+Grounding boundary: follow repository-local Tasks under .topics/refactor and the controlling Business CLI frontier. Reuse public Core/Runtime/Provider/Interop contracts; do not copy shared Tooling or add provider/environment-specific branches merely to make a local command work.
