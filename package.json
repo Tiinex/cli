@@ -31,10 +31,13 @@
     "release:prepare": "node tools/release.mjs prepare",
     "release:publish": "node tools/release.mjs publish"
   },
-  "devDependencies": {
-    "@tiinex/core": "0.1.1"
-  },
   "publishConfig": {
     "access": "public"
+  },
+  "bin": {
+    "tiinex": "./src/cli.js"
+  },
+  "dependencies": {
+    "@tiinex/core": "0.1.1"
   }
 }
