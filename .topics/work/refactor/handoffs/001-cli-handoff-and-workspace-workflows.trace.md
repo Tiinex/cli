@@ -37,8 +37,8 @@ CLI Handoff flows produce the same qualified transport/result semantics as the s
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-cli-host-foundation.trace.md](../001-cli-host-foundation.trace.md)
-  - Value: ByYNBXJJxB3ZVUC6MAKOgB0aMg-dJXcr9aCUjEDjHdc
+  - Value: W9Q3zHPEOP2gpQe80llz1dbsyLhoXYaXVnMT0OnU9GA
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: fOMGpUGOnQZALR6AbYLx73bKj4v4L2FmxLHLfYGU6Xc
+  - Value: CQi8bviVqCb7bEVYlbZo7wk-ZXdrYq8ftkV2qk7ekZw
