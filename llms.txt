@@ -1,9 +1,7 @@
-cli
+# Tiinex/cli LLM Bootstrap
 
-First-party Tiinex command-line host for portable Workspace, validation, Handoff, runtime and operator workflows.
+This repository uses Tiinex. `.topics/**` and qualified source material are semantic/provenance authority; this file is only a bootstrap hint.
 
-Grounding boundary:
-- Start from `.topics/.workspaces/tiinex-cli.workspace.md` and `.topics/reductions/workspace/010-cli-fresh-start-reduction.trace.md`.
-- No pre-fresh-start CLI execution Task is current merely because historical material existed under an older refactor lineage; future CLI work starts from a new explicit bounded Task with truthful Project ancestry.
-- Reuse public Core/Runtime/Provider/Interop contracts; do not copy shared Tooling or add provider/environment-specific branches merely to make a local command work.
-- Treat repository source as implementation truth for the CLI host, not as authority for shared Tiinex semantics.
+Use Tiinex Tooling to discover and qualify the Workspace entrypoint under `.topics/.workspaces`, then follow only the qualified artifacts and processes applicable to the current task.
+
+Do not use `llms.txt` or `README.md` as an artifact index, current-work declaration, or substitute for Tiinex discovery/grounding.
